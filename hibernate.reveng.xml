@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-reverse-engineering PUBLIC "-//Hibernate/Hibernate Reverse Engineering DTD 3.0//EN" "http://hibernate.sourceforge.net/hibernate-reverse-engineering-3.0.dtd" >
+
+<hibernate-reverse-engineering>
+  <table-filter match-name="TPIC060_EXP_TUBERIA"/>
+  <table-filter match-name="TPIC061_EXP_OPERACI"/>
+  <table-filter match-name="TPIC062_EXP_PIZARRA"/>
+  <table-filter match-name="TPIC063_EXP_DPIZARR"/>
+  <table-filter match-name="TPIC064_EXP_ROPERAC"/>
+  <table-filter match-name="TPIC065_EXP_DREGIST"/>
+</hibernate-reverse-engineering>
